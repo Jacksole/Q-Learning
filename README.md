@@ -1,17 +1,16 @@
-https://img.shields.io/github/license/Jacksole/Kivy-Chat.svg
-https://img.shields.io/twitter/url/https/github.com/Jacksole/Kivy-Chat.svg?style=social
-https://img.shields.io/github/issues/Jacksole/Kivy-Chat.svg
-https://img.shields.io/github/forks/Jacksole/Kivy-Chat.svg
-https://img.shields.io/github/stars/Jacksole/Kivy-Chat.svg
-https://img.shields.io/github/repo-size/Jacksole/Kivy-Chat.svg
-[![Requirements Status](https://requires.io/github/Jacksole/Kivy-Chat/requirements.svg?branch=master)](https://requires.io/github/Jacksole/Kivy-Chat/requirements/?branch=master)
-https://img.shields.io/snyk/vulnerabilities/github/Jacksole/Kivy-Chat.svg
+[![License](https://img.shields.io/github/license/Jacksole/Q-Learning.svg)]
+[![Social](https://img.shields.io/twitter/url/https/github.com/Jacksole/Q-Learning.svg?style=social)]
+[![Issues](https://img.shields.io/github/issues/Jacksole/Q-Learning.svg)] 
+[![Forks](https://img.shields.io/github/forks/Jacksole/Q-Learning.svg)]
+[![Stars](https://img.shields.io/github/stars/Jacksole/Q-Learning.svg)]
+[![Repo Size](https://img.shields.io/github/repo-size/Jacksole/Q-Learning.svg)]
+[![Requirements Status](https://requires.io/github/Jacksole/Q-Learning/requirements.svg?branch=master)]
+[![Vulnerabilities](https://img.shields.io/snyk/vulnerabilities/github/Jacksole/Q-Learning.svg)]
 # Q-Learning
 > Based on Sentdex Tutorial focusing on Q-Learning
 
-[![NPM Version][npm-image]][npm-url]
+
 [![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
 
 One to two paragraph statement about your product and what it does.
 
@@ -67,20 +66,17 @@ Your Name – [@Dre_MF_Jackson](https://twitter.com/Dre_MF_Jackson) – leaundre
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
-[https://github.com/yourname/github-link](https://github.com/Jacksole)
+[https://github.com/Jacksole](https://github.com/Jacksole)
 
 ## Contributing
 
-1. Fork it (<https://github.com/Jacksole/Kivy-Chat/fork>)
+1. Fork it (<https://Jacksole/Q-Learning/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
 <!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/Jacksole/Kivy-Chat.svg?branch=master
+[travis-image]: https://img.shields.io/travis/Jacksole/Q-Learning.svg
+[travis-url]: (https://img.shields.io/travis/Jacksole/Q-Learning.svg)]
 [wiki]: https://github.com/Jacksole/Kivy-Chat/wiki
